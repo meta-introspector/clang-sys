@@ -3,3 +3,4 @@ bindgen-test/target/
 target/
 
 Cargo.lock
+process-repo.log
